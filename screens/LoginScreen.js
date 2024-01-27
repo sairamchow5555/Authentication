@@ -13,7 +13,7 @@ export default function LoginScreen() {
             <Text style={styles.textField}>
                 Email Address:
             </Text>
-            <TextInput style={styles.inputTextField} placeholder='e.g. sai@gmail.com' />
+            <TextInput style={styles.inputTextField} placeholder='e.g. sairam.chundru1432@gmail.com' />
             <Text style={styles.textField}>
                 Password:
             </Text>
